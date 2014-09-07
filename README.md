@@ -1,4 +1,4 @@
 scraping
 ========
 
-Web Scraping Class
+IRE Web Scraping Class
